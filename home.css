@@ -29,6 +29,7 @@ body{
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   text-align: center;
+  text-transform: uppercase;
   color: #fff;
 }
 
@@ -64,7 +65,7 @@ body{
     border-bottom: 1px solid #e0e0e0;
     color: #353c4e;
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
 }
 
 .wrapper .right .info_data,
