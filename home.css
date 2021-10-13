@@ -32,21 +32,16 @@ body{
   color: #fff;
 }
 
-.wrapper .left img{
-  border-radius: 5px;
-  margin-bottom: 10px;
-}
-
 .wrapper .left h4{
   margin-bottom: 10px;
 }
 
 .wrapper .left p{
-  font-size: 12px;
+  font-size: 25px;
 }
 
 .wrapper .right{
-  width: 65%;
+  width: 35%;
   background: #fff;
   padding: 30px 25px;
   border-top-right-radius: 5px;
@@ -63,7 +58,8 @@ body{
 .wrapper .right .info h3,
 .wrapper .right .projects h3,
 .wrapper .right .education h3,
-.wrapper .right .work_experience h3{
+.wrapper .right .work_experience h3
+{
     margin-bottom: 15px;
     padding-bottom: 5px;
     border-bottom: 1px solid #e0e0e0;
@@ -84,13 +80,14 @@ body{
 .wrapper .right .projects_data .data,
 .wrapper .right .education_data .data,
 .wrapper .right .experience_data .data{
-  width: 65%;
+  width: 45%;
 }
 
 .wrapper .right .info_data .data h4,
 .wrapper .right .projects_data .data h4,
 .wrapper .right .education_data .data h4,
-.wrapper .right .experience_data .data h4{
+.wrapper .right .experience_data .data h4
+{
     color: #353c4e;
     margin-bottom: 5px;
 }
@@ -100,6 +97,6 @@ body{
 .wrapper .right .education_data .data p,
 .wrapper .right .experience_data .data p{
   font-size: 13px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   color: #919aa3;
 }
