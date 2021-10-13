@@ -78,7 +78,7 @@ body{
 .wrapper .right .projects_data .data,
 .wrapper .right .education_data .data,
 .wrapper .right .experience_data .data{
-  width: 45%;
+  width: 75%;
 }
 
 .wrapper .right .info_data .data h4,
