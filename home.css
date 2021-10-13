@@ -103,3 +103,8 @@ body{
 .wrapper .right .experience_data .data strong{
   color: 	#800080;
 }
+
+.wrapper .right .info_data .data h5{
+	 color: #000000;
+    margin-bottom: 5px;
+}
