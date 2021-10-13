@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
-
 *{
   margin: 0;
   padding: 0;
@@ -16,7 +14,7 @@ body{
   position: absolute;
   top: 60%;
   left: 60%;
-  transform: translate(-60%,-60%);
+  transform: translate(-50%,-50%);
   width: 450px;
   display: flex;
   box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
@@ -80,7 +78,7 @@ body{
 .wrapper .right .projects_data .data,
 .wrapper .right .education_data .data,
 .wrapper .right .experience_data .data{
-  width: 45%;
+  width: 75%;
 }
 
 .wrapper .right .info_data .data h4,
