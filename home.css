@@ -28,7 +28,8 @@ body{
     border-bottom: 1px solid #e0e0e0;
     color: #b0c4de;
     text-transform: uppercase;
-    letter-spacing: 5px
+    letter-spacing: 5px;
+    font-family: 'Brush Script MT', cursive;
 }
 
 .wrapper .left{
