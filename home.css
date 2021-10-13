@@ -21,7 +21,7 @@ body{
 }
 
 .wrapper .left{
-  width: 35%;
+  width: 55%;
   background: linear-gradient(to right,#01a9ac,#01dbdf);
   padding: 30px 25px;
   border-top-left-radius: 5px;
