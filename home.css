@@ -22,12 +22,13 @@ body{
   box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
 }
 
-.wrapper .right .info_data .data h2{
+.wrapper .right .info h2{
     margin-bottom: 15px;
     padding-bottom: 5px;
-    color: #000000;
+    border-bottom: 1px solid #e0e0e0;
+    color: #353c4e;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 5px
 }
 
 .wrapper .left{
