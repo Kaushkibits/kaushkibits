@@ -23,7 +23,7 @@ body{
 }
 
 .wrapper .left{
-  width: 55%;
+  width: 35%;
   background: linear-gradient(to right,#01a9ac,#01dbdf);
   padding: 30px 25px;
   border-top-left-radius: 5px;
@@ -41,7 +41,7 @@ body{
 }
 
 .wrapper .right{
-  width: 65%;
+  width: 85%;
   background: #fff;
   padding: 30px 25px;
   border-top-right-radius: 5px;
